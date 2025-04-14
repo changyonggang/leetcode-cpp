@@ -1,4 +1,4 @@
-#include "stl/vector.cpp"
+#include "stl/vector.h"
 
 int main() {
     vector_func1();

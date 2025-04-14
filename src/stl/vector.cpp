@@ -1,9 +1,10 @@
-#include <iostream>
-#include <vector>
+#include "vector.h"
 
-using namespace std;
+// void MyVector::hello_func1() {
+//     printf("hello_func1 \n");
+// };
 
-void vector_func1() {
+void vector_f() {
     std::vector<int> v = {1, 2, 3};
     v.push_back(4);
 

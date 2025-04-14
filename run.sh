@@ -22,7 +22,7 @@ echo "CMake 配置项目完成。"
 
 # 并行编译项目
 echo "开始并行编译项目..."
-make -j8 -v
+make -j8
 if [ $? -ne 0 ]; then
     echo "并行编译项目时出现错误，脚本终止。"
     exit 1
