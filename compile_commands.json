@@ -1,0 +1,207 @@
+[
+{
+  "directory": "/Users/changyonggang/code/leetcode-cpp",
+  "command": "/usr/bin/clang++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk -std=gnu++17 -o CMakeFiles/leetcode-cpp.dir/src/12.cpp.o -c /Users/changyonggang/code/leetcode-cpp/src/12.cpp",
+  "file": "/Users/changyonggang/code/leetcode-cpp/src/12.cpp"
+},
+{
+  "directory": "/Users/changyonggang/code/leetcode-cpp",
+  "command": "/usr/bin/clang++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk -std=gnu++17 -o CMakeFiles/leetcode-cpp.dir/src/13.cpp.o -c /Users/changyonggang/code/leetcode-cpp/src/13.cpp",
+  "file": "/Users/changyonggang/code/leetcode-cpp/src/13.cpp"
+},
+{
+  "directory": "/Users/changyonggang/code/leetcode-cpp",
+  "command": "/usr/bin/clang++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk -std=gnu++17 -o CMakeFiles/leetcode-cpp.dir/src/134.cpp.o -c /Users/changyonggang/code/leetcode-cpp/src/134.cpp",
+  "file": "/Users/changyonggang/code/leetcode-cpp/src/134.cpp"
+},
+{
+  "directory": "/Users/changyonggang/code/leetcode-cpp",
+  "command": "/usr/bin/clang++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk -std=gnu++17 -o CMakeFiles/leetcode-cpp.dir/src/150.cpp.o -c /Users/changyonggang/code/leetcode-cpp/src/150.cpp",
+  "file": "/Users/changyonggang/code/leetcode-cpp/src/150.cpp"
+},
+{
+  "directory": "/Users/changyonggang/code/leetcode-cpp",
+  "command": "/usr/bin/clang++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk -std=gnu++17 -o CMakeFiles/leetcode-cpp.dir/src/155.cpp.o -c /Users/changyonggang/code/leetcode-cpp/src/155.cpp",
+  "file": "/Users/changyonggang/code/leetcode-cpp/src/155.cpp"
+},
+{
+  "directory": "/Users/changyonggang/code/leetcode-cpp",
+  "command": "/usr/bin/clang++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk -std=gnu++17 -o CMakeFiles/leetcode-cpp.dir/src/169.cpp.o -c /Users/changyonggang/code/leetcode-cpp/src/169.cpp",
+  "file": "/Users/changyonggang/code/leetcode-cpp/src/169.cpp"
+},
+{
+  "directory": "/Users/changyonggang/code/leetcode-cpp",
+  "command": "/usr/bin/clang++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk -std=gnu++17 -o CMakeFiles/leetcode-cpp.dir/src/1768.cpp.o -c /Users/changyonggang/code/leetcode-cpp/src/1768.cpp",
+  "file": "/Users/changyonggang/code/leetcode-cpp/src/1768.cpp"
+},
+{
+  "directory": "/Users/changyonggang/code/leetcode-cpp",
+  "command": "/usr/bin/clang++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk -std=gnu++17 -o CMakeFiles/leetcode-cpp.dir/src/189.cpp.o -c /Users/changyonggang/code/leetcode-cpp/src/189.cpp",
+  "file": "/Users/changyonggang/code/leetcode-cpp/src/189.cpp"
+},
+{
+  "directory": "/Users/changyonggang/code/leetcode-cpp",
+  "command": "/usr/bin/clang++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk -std=gnu++17 -o CMakeFiles/leetcode-cpp.dir/src/1963.cpp.o -c /Users/changyonggang/code/leetcode-cpp/src/1963.cpp",
+  "file": "/Users/changyonggang/code/leetcode-cpp/src/1963.cpp"
+},
+{
+  "directory": "/Users/changyonggang/code/leetcode-cpp",
+  "command": "/usr/bin/clang++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk -std=gnu++17 -o CMakeFiles/leetcode-cpp.dir/src/202.cpp.o -c /Users/changyonggang/code/leetcode-cpp/src/202.cpp",
+  "file": "/Users/changyonggang/code/leetcode-cpp/src/202.cpp"
+},
+{
+  "directory": "/Users/changyonggang/code/leetcode-cpp",
+  "command": "/usr/bin/clang++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk -std=gnu++17 -o CMakeFiles/leetcode-cpp.dir/src/219.cpp.o -c /Users/changyonggang/code/leetcode-cpp/src/219.cpp",
+  "file": "/Users/changyonggang/code/leetcode-cpp/src/219.cpp"
+},
+{
+  "directory": "/Users/changyonggang/code/leetcode-cpp",
+  "command": "/usr/bin/clang++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk -std=gnu++17 -o CMakeFiles/leetcode-cpp.dir/src/2255.cpp.o -c /Users/changyonggang/code/leetcode-cpp/src/2255.cpp",
+  "file": "/Users/changyonggang/code/leetcode-cpp/src/2255.cpp"
+},
+{
+  "directory": "/Users/changyonggang/code/leetcode-cpp",
+  "command": "/usr/bin/clang++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk -std=gnu++17 -o CMakeFiles/leetcode-cpp.dir/src/2423.cpp.o -c /Users/changyonggang/code/leetcode-cpp/src/2423.cpp",
+  "file": "/Users/changyonggang/code/leetcode-cpp/src/2423.cpp"
+},
+{
+  "directory": "/Users/changyonggang/code/leetcode-cpp",
+  "command": "/usr/bin/clang++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk -std=gnu++17 -o CMakeFiles/leetcode-cpp.dir/src/3341.cpp.o -c /Users/changyonggang/code/leetcode-cpp/src/3341.cpp",
+  "file": "/Users/changyonggang/code/leetcode-cpp/src/3341.cpp"
+},
+{
+  "directory": "/Users/changyonggang/code/leetcode-cpp",
+  "command": "/usr/bin/clang++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk -std=gnu++17 -o CMakeFiles/leetcode-cpp.dir/src/3403.cpp.o -c /Users/changyonggang/code/leetcode-cpp/src/3403.cpp",
+  "file": "/Users/changyonggang/code/leetcode-cpp/src/3403.cpp"
+},
+{
+  "directory": "/Users/changyonggang/code/leetcode-cpp",
+  "command": "/usr/bin/clang++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk -std=gnu++17 -o CMakeFiles/leetcode-cpp.dir/src/3445.cpp.o -c /Users/changyonggang/code/leetcode-cpp/src/3445.cpp",
+  "file": "/Users/changyonggang/code/leetcode-cpp/src/3445.cpp"
+},
+{
+  "directory": "/Users/changyonggang/code/leetcode-cpp",
+  "command": "/usr/bin/clang++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk -std=gnu++17 -o CMakeFiles/leetcode-cpp.dir/src/3477.cpp.o -c /Users/changyonggang/code/leetcode-cpp/src/3477.cpp",
+  "file": "/Users/changyonggang/code/leetcode-cpp/src/3477.cpp"
+},
+{
+  "directory": "/Users/changyonggang/code/leetcode-cpp",
+  "command": "/usr/bin/clang++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk -std=gnu++17 -o CMakeFiles/leetcode-cpp.dir/src/383.cpp.o -c /Users/changyonggang/code/leetcode-cpp/src/383.cpp",
+  "file": "/Users/changyonggang/code/leetcode-cpp/src/383.cpp"
+},
+{
+  "directory": "/Users/changyonggang/code/leetcode-cpp",
+  "command": "/usr/bin/clang++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk -std=gnu++17 -o CMakeFiles/leetcode-cpp.dir/src/45.cpp.o -c /Users/changyonggang/code/leetcode-cpp/src/45.cpp",
+  "file": "/Users/changyonggang/code/leetcode-cpp/src/45.cpp"
+},
+{
+  "directory": "/Users/changyonggang/code/leetcode-cpp",
+  "command": "/usr/bin/clang++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk -std=gnu++17 -o CMakeFiles/leetcode-cpp.dir/src/58.cpp.o -c /Users/changyonggang/code/leetcode-cpp/src/58.cpp",
+  "file": "/Users/changyonggang/code/leetcode-cpp/src/58.cpp"
+},
+{
+  "directory": "/Users/changyonggang/code/leetcode-cpp",
+  "command": "/usr/bin/clang++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk -std=gnu++17 -o CMakeFiles/leetcode-cpp.dir/src/97.cpp.o -c /Users/changyonggang/code/leetcode-cpp/src/97.cpp",
+  "file": "/Users/changyonggang/code/leetcode-cpp/src/97.cpp"
+},
+{
+  "directory": "/Users/changyonggang/code/leetcode-cpp",
+  "command": "/usr/bin/clang++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk -std=gnu++17 -o CMakeFiles/leetcode-cpp.dir/src/array.cpp.o -c /Users/changyonggang/code/leetcode-cpp/src/array.cpp",
+  "file": "/Users/changyonggang/code/leetcode-cpp/src/array.cpp"
+},
+{
+  "directory": "/Users/changyonggang/code/leetcode-cpp",
+  "command": "/usr/bin/clang++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk -std=gnu++17 -o CMakeFiles/leetcode-cpp.dir/src/hash/1657.cpp.o -c /Users/changyonggang/code/leetcode-cpp/src/hash/1657.cpp",
+  "file": "/Users/changyonggang/code/leetcode-cpp/src/hash/1657.cpp"
+},
+{
+  "directory": "/Users/changyonggang/code/leetcode-cpp",
+  "command": "/usr/bin/clang++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk -std=gnu++17 -o CMakeFiles/leetcode-cpp.dir/src/hello.cpp.o -c /Users/changyonggang/code/leetcode-cpp/src/hello.cpp",
+  "file": "/Users/changyonggang/code/leetcode-cpp/src/hello.cpp"
+},
+{
+  "directory": "/Users/changyonggang/code/leetcode-cpp",
+  "command": "/usr/bin/clang++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk -std=gnu++17 -o CMakeFiles/leetcode-cpp.dir/src/list/141.cpp.o -c /Users/changyonggang/code/leetcode-cpp/src/list/141.cpp",
+  "file": "/Users/changyonggang/code/leetcode-cpp/src/list/141.cpp"
+},
+{
+  "directory": "/Users/changyonggang/code/leetcode-cpp",
+  "command": "/usr/bin/clang++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk -std=gnu++17 -o CMakeFiles/leetcode-cpp.dir/src/main.cpp.o -c /Users/changyonggang/code/leetcode-cpp/src/main.cpp",
+  "file": "/Users/changyonggang/code/leetcode-cpp/src/main.cpp"
+},
+{
+  "directory": "/Users/changyonggang/code/leetcode-cpp",
+  "command": "/usr/bin/clang++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk -std=gnu++17 -o CMakeFiles/leetcode-cpp.dir/src/reverse_linked_list.cpp.o -c /Users/changyonggang/code/leetcode-cpp/src/reverse_linked_list.cpp",
+  "file": "/Users/changyonggang/code/leetcode-cpp/src/reverse_linked_list.cpp"
+},
+{
+  "directory": "/Users/changyonggang/code/leetcode-cpp",
+  "command": "/usr/bin/clang++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk -std=gnu++17 -o CMakeFiles/leetcode-cpp.dir/src/sort/164.cpp.o -c /Users/changyonggang/code/leetcode-cpp/src/sort/164.cpp",
+  "file": "/Users/changyonggang/code/leetcode-cpp/src/sort/164.cpp"
+},
+{
+  "directory": "/Users/changyonggang/code/leetcode-cpp",
+  "command": "/usr/bin/clang++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk -std=gnu++17 -o CMakeFiles/leetcode-cpp.dir/src/stl/26.cpp.o -c /Users/changyonggang/code/leetcode-cpp/src/stl/26.cpp",
+  "file": "/Users/changyonggang/code/leetcode-cpp/src/stl/26.cpp"
+},
+{
+  "directory": "/Users/changyonggang/code/leetcode-cpp",
+  "command": "/usr/bin/clang++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk -std=gnu++17 -o CMakeFiles/leetcode-cpp.dir/src/stl/vector.cpp.o -c /Users/changyonggang/code/leetcode-cpp/src/stl/vector.cpp",
+  "file": "/Users/changyonggang/code/leetcode-cpp/src/stl/vector.cpp"
+},
+{
+  "directory": "/Users/changyonggang/code/leetcode-cpp",
+  "command": "/usr/bin/clang++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk -std=gnu++17 -o CMakeFiles/leetcode-cpp.dir/src/string/125.cpp.o -c /Users/changyonggang/code/leetcode-cpp/src/string/125.cpp",
+  "file": "/Users/changyonggang/code/leetcode-cpp/src/string/125.cpp"
+},
+{
+  "directory": "/Users/changyonggang/code/leetcode-cpp",
+  "command": "/usr/bin/clang++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk -std=gnu++17 -o CMakeFiles/leetcode-cpp.dir/src/string/242.cpp.o -c /Users/changyonggang/code/leetcode-cpp/src/string/242.cpp",
+  "file": "/Users/changyonggang/code/leetcode-cpp/src/string/242.cpp"
+},
+{
+  "directory": "/Users/changyonggang/code/leetcode-cpp",
+  "command": "/usr/bin/clang++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk -std=gnu++17 -o CMakeFiles/leetcode-cpp.dir/src/string/290.cpp.o -c /Users/changyonggang/code/leetcode-cpp/src/string/290.cpp",
+  "file": "/Users/changyonggang/code/leetcode-cpp/src/string/290.cpp"
+},
+{
+  "directory": "/Users/changyonggang/code/leetcode-cpp",
+  "command": "/usr/bin/clang++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk -std=gnu++17 -o CMakeFiles/leetcode-cpp.dir/src/string/3.cpp.o -c /Users/changyonggang/code/leetcode-cpp/src/string/3.cpp",
+  "file": "/Users/changyonggang/code/leetcode-cpp/src/string/3.cpp"
+},
+{
+  "directory": "/Users/changyonggang/code/leetcode-cpp",
+  "command": "/usr/bin/clang++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk -std=gnu++17 -o CMakeFiles/leetcode-cpp.dir/src/string/443.cpp.o -c /Users/changyonggang/code/leetcode-cpp/src/string/443.cpp",
+  "file": "/Users/changyonggang/code/leetcode-cpp/src/string/443.cpp"
+},
+{
+  "directory": "/Users/changyonggang/code/leetcode-cpp",
+  "command": "/usr/bin/clang++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk -std=gnu++17 -o CMakeFiles/leetcode-cpp.dir/src/string/58.cpp.o -c /Users/changyonggang/code/leetcode-cpp/src/string/58.cpp",
+  "file": "/Users/changyonggang/code/leetcode-cpp/src/string/58.cpp"
+},
+{
+  "directory": "/Users/changyonggang/code/leetcode-cpp",
+  "command": "/usr/bin/clang++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk -std=gnu++17 -o CMakeFiles/leetcode-cpp.dir/src/string/6.cpp.o -c /Users/changyonggang/code/leetcode-cpp/src/string/6.cpp",
+  "file": "/Users/changyonggang/code/leetcode-cpp/src/string/6.cpp"
+},
+{
+  "directory": "/Users/changyonggang/code/leetcode-cpp",
+  "command": "/usr/bin/clang++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk -std=gnu++17 -o CMakeFiles/leetcode-cpp.dir/src/tree/104.cpp.o -c /Users/changyonggang/code/leetcode-cpp/src/tree/104.cpp",
+  "file": "/Users/changyonggang/code/leetcode-cpp/src/tree/104.cpp"
+},
+{
+  "directory": "/Users/changyonggang/code/leetcode-cpp",
+  "command": "/usr/bin/clang++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk -std=gnu++17 -o CMakeFiles/leetcode-cpp.dir/src/tree/98.cpp.o -c /Users/changyonggang/code/leetcode-cpp/src/tree/98.cpp",
+  "file": "/Users/changyonggang/code/leetcode-cpp/src/tree/98.cpp"
+},
+{
+  "directory": "/Users/changyonggang/code/leetcode-cpp",
+  "command": "/usr/bin/clang++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk -std=gnu++17 -o CMakeFiles/leetcode-cpp.dir/src/two_sum.cpp.o -c /Users/changyonggang/code/leetcode-cpp/src/two_sum.cpp",
+  "file": "/Users/changyonggang/code/leetcode-cpp/src/two_sum.cpp"
+},
+{
+  "directory": "/Users/changyonggang/code/leetcode-cpp",
+  "command": "/usr/bin/clang++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk -std=gnu++17 -o CMakeFiles/leetcode-cpp.dir/src/window/209.cpp.o -c /Users/changyonggang/code/leetcode-cpp/src/window/209.cpp",
+  "file": "/Users/changyonggang/code/leetcode-cpp/src/window/209.cpp"
+}
+]
